@@ -4,7 +4,7 @@ implementation of the following algorithms from zero using numpy.
 # The data
 
 The dataset to be learnt and tagged is Iris flowers classification. There are 3 Iris flower species with five features per instance. 
-In the train_x file there are 240 Iris flower feature instance to learn from. Each instance is a feature vector which contains 5 features seperated by commas. each flower instance is seperated by newline.
+In the train_x file there are 240 Iris flower feature instances to learn from. Each instance is a feature vector which contains 5 features seperated by commas. each flower instance is seperated by newline.
 the corresponding train_y file contains the correct labels(species type). The tags start at 0( tags are 0,1 or 2). Each tag is seperated by newline.
 
 # The output
