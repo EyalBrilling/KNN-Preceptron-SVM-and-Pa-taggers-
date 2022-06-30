@@ -15,7 +15,7 @@ knn: predection, perceptron: predection, svm: predection, pa: predection \n
 ```
 Where predection is the predected tag by the corrspending algorithm,from the range 0 to 2.
 
-****Notice: order of the test input is saved. If an instane of a flower is on line X on the test file,it will be on line X in the predection file****
+****Notice: order of the test input is saved. If an instane of a flower is on line X on the test file,it will be on line X in the predection file output****
 
 # Program arguments
 the program expectes 4 arguments from the user
